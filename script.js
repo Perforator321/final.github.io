@@ -1,8 +1,7 @@
-
 //import fs from 'fs'
 //import * as fs from 'node:fs/promises';
 //import * as fs from "node:fs";
-const fs = require('fs');
+//const fs = require('fs');
 
 const adm1 = ['admin', '123234'];
 let links = document.querySelectorAll('.scroll');
@@ -129,3 +128,4 @@ document.addEventListener('DOMContentLoaded', function() {
       checkBlocksVisibility();
   });
 });
+
